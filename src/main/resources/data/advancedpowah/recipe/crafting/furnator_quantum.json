@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": "advancedpowah:capacitor_quantum",
+    "d": "powah:dielectric_casing",
+    "f": "advancedpowah:furnator_astral",
+    "g": "advancedpowah:crystal_quantum"
+  },
+  "pattern": [
+    "ggg",
+    "cdc",
+    "gfg"
+  ],
+  "result": {
+    "id": "advancedpowah:furnator_quantum"
+  }
+}

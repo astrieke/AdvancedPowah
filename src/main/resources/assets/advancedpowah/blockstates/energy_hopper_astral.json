@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "advancedpowah:block/energy_hopper_astral",
+      "x": 90
+    },
+    "facing=east": {
+      "model": "advancedpowah:block/energy_hopper_astral",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "advancedpowah:block/energy_hopper_astral"
+    },
+    "facing=south": {
+      "model": "advancedpowah:block/energy_hopper_astral",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "advancedpowah:block/energy_hopper_astral",
+      "x": 270
+    },
+    "facing=west": {
+      "model": "advancedpowah:block/energy_hopper_astral",
+      "y": 270
+    }
+  }
+}

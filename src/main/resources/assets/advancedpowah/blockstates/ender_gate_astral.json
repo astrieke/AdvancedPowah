@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "advancedpowah:block/ender_gate_astral",
+      "x": 90
+    },
+    "facing=east": {
+      "model": "advancedpowah:block/ender_gate_astral",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "advancedpowah:block/ender_gate_astral"
+    },
+    "facing=south": {
+      "model": "advancedpowah:block/ender_gate_astral",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "advancedpowah:block/ender_gate_astral",
+      "x": 270
+    },
+    "facing=west": {
+      "model": "advancedpowah:block/ender_gate_astral",
+      "y": 270
+    }
+  }
+}

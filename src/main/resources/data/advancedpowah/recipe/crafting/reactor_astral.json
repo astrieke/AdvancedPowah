@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "l": "advancedpowah:capacitor_astral",
+    "r": "advancedpowah:reactor_voltaic",
+    "u": "powah:uraninite"
+  },
+  "pattern": [
+    "rlr",
+    "lul",
+    "rlr"
+  ],
+  "result": {
+    "count": 4,
+    "id": "advancedpowah:reactor_astral"
+  }
+}

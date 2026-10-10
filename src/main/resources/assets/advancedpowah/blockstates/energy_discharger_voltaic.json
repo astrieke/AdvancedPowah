@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "advancedpowah:block/energy_discharger_voltaic"
+    },
+    "facing=east": {
+      "model": "advancedpowah:block/energy_discharger_voltaic",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "advancedpowah:block/energy_discharger_voltaic",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "advancedpowah:block/energy_discharger_voltaic",
+      "y": 270
+    }
+  }
+}

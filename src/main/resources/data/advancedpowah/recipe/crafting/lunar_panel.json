@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "p": "powah:photoelectric_pane",
+    "l": "#c:storage_blocks/lapis",
+    "d": "powah:dielectric_casing",
+    "e": "powah:crystal_niotic",
+    "c": "powah:capacitor_niotic"
+  },
+  "pattern": [
+    "ppp",
+    "ldl",
+    "ece"
+  ],
+  "result": {
+    "id": "advancedpowah:lunar_panel"
+  }
+}

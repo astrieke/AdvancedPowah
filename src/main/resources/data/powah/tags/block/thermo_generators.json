@@ -1,0 +1,7 @@
+{
+  "values": [
+    "advancedpowah:thermo_generator_voltaic",
+    "advancedpowah:thermo_generator_astral",
+    "advancedpowah:thermo_generator_quantum"
+  ]
+}

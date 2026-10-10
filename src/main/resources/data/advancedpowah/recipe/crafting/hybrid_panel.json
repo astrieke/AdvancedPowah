@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "s": "powah:solar_panel_nitro",
+    "g": "#c:storage_blocks/gold",
+    "l": "advancedpowah:lunar_panel",
+    "d": "powah:dielectric_casing",
+    "c": "powah:capacitor_nitro",
+    "e": "powah:crystal_nitro"
+  },
+  "pattern": [
+    "sgl",
+    "cdc",
+    "eee"
+  ],
+  "result": {
+    "id": "advancedpowah:hybrid_panel"
+  }
+}

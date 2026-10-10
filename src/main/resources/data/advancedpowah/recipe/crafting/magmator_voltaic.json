@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": "advancedpowah:capacitor_voltaic",
+    "d": "powah:dielectric_casing",
+    "f": "powah:magmator_nitro",
+    "g": "advancedpowah:crystal_voltaic"
+  },
+  "pattern": [
+    "ggg",
+    "cdc",
+    "gfg"
+  ],
+  "result": {
+    "id": "advancedpowah:magmator_voltaic"
+  }
+}

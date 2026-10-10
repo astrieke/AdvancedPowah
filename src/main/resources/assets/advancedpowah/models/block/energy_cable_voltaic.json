@@ -1,0 +1,6 @@
+{
+  "parent": "powah:block/cable",
+  "textures": {
+    "all": "advancedpowah:block/energy_cable_voltaic"
+  }
+}

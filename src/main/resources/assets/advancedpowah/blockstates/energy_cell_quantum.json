@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "advancedpowah:block/energy_cell_quantum"
+    }
+  }
+}

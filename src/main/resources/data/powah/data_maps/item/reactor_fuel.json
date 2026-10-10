@@ -1,0 +1,20 @@
+{
+  "values": {
+    "#c:ingots/uranium": {
+      "fuelAmount": 100,
+      "temperature": 700
+    },
+    "#c:pellets/plutonium": {
+      "fuelAmount": 300,
+      "temperature": 1000
+    },
+    "#c:pellets/polonium": {
+      "fuelAmount": 500,
+      "temperature": 1400
+    },
+    "#c:pellets/antimatter": {
+      "fuelAmount": 2000,
+      "temperature": 2500
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": "advancedpowah:capacitor_astral",
+    "d": "powah:dielectric_casing",
+    "g": "advancedpowah:crystal_astral",
+    "i": "powah:dielectric_paste",
+    "p": "powah:thermoelectric_plate",
+    "t": "advancedpowah:thermo_generator_voltaic"
+  },
+  "pattern": [
+    "igi",
+    "cdc",
+    "ptp"
+  ],
+  "result": {
+    "id": "advancedpowah:thermo_generator_astral"
+  }
+}

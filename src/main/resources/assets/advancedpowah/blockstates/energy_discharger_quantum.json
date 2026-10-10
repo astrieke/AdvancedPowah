@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "advancedpowah:block/energy_discharger_quantum"
+    },
+    "facing=east": {
+      "model": "advancedpowah:block/energy_discharger_quantum",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "advancedpowah:block/energy_discharger_quantum",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "advancedpowah:block/energy_discharger_quantum",
+      "y": 270
+    }
+  }
+}

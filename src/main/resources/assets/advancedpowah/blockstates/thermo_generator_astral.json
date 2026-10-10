@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "advancedpowah:block/thermo_generator_astral"
+    }
+  }
+}

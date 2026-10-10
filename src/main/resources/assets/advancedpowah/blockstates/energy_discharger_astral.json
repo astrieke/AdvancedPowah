@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "advancedpowah:block/energy_discharger_astral"
+    },
+    "facing=east": {
+      "model": "advancedpowah:block/energy_discharger_astral",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "advancedpowah:block/energy_discharger_astral",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "advancedpowah:block/energy_discharger_astral",
+      "y": 270
+    }
+  }
+}

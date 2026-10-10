@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,lit=false": {
+      "model": "advancedpowah:block/magmator_quantum"
+    },
+    "facing=north,lit=true": {
+      "model": "advancedpowah:block/magmator_quantum_on"
+    },
+    "facing=east,lit=false": {
+      "model": "advancedpowah:block/magmator_quantum",
+      "y": 90
+    },
+    "facing=east,lit=true": {
+      "model": "advancedpowah:block/magmator_quantum_on",
+      "y": 90
+    },
+    "facing=south,lit=false": {
+      "model": "advancedpowah:block/magmator_quantum",
+      "y": 180
+    },
+    "facing=south,lit=true": {
+      "model": "advancedpowah:block/magmator_quantum_on",
+      "y": 180
+    },
+    "facing=west,lit=false": {
+      "model": "advancedpowah:block/magmator_quantum",
+      "y": 270
+    },
+    "facing=west,lit=true": {
+      "model": "advancedpowah:block/magmator_quantum_on",
+      "y": 270
+    }
+  }
+}

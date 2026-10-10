@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "advancedpowah:block/voltaic_crystal_block"
+    }
+  }
+}

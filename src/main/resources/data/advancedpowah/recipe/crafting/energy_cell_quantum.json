@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": "advancedpowah:crystal_quantum",
+    "c": "advancedpowah:energy_cell_astral",
+    "d": "powah:dielectric_casing",
+    "n": "advancedpowah:capacitor_quantum"
+  },
+  "pattern": [
+    "bnb",
+    "cdc",
+    "bnb"
+  ],
+  "result": {
+    "id": "advancedpowah:energy_cell_quantum"
+  }
+}

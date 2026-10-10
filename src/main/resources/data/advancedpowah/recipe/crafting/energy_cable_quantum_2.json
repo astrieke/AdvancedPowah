@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": "advancedpowah:capacitor_quantum",
+    "d": "powah:dielectric_rod_horizontal",
+    "k": "advancedpowah:crystal_quantum"
+  },
+  "pattern": [
+    "ddd",
+    "kck",
+    "ddd"
+  ],
+  "result": {
+    "count": 12,
+    "id": "advancedpowah:energy_cable_quantum"
+  }
+}

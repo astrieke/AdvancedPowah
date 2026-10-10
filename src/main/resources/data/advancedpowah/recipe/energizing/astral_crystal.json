@@ -1,0 +1,14 @@
+{
+  "type": "powah:energizing",
+  "energy": 600000000,
+  "ingredients": [
+    "advancedpowah:voltaic_crystal_block",
+    "#c:storage_blocks/netherite",
+    "minecraft:dragon_breath",
+    "minecraft:end_crystal"
+  ],
+  "result": {
+    "count": 4,
+    "id": "advancedpowah:crystal_astral"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "advancedpowah:block/energizing_rod_quantum"
+    },
+    "facing=east": {
+      "model": "advancedpowah:block/energizing_rod_quantum",
+      "x": 90,
+      "y": 270
+    },
+    "facing=north": {
+      "model": "advancedpowah:block/energizing_rod_quantum",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south": {
+      "model": "advancedpowah:block/energizing_rod_quantum",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "advancedpowah:block/energizing_rod_quantum",
+      "x": 180
+    },
+    "facing=west": {
+      "model": "advancedpowah:block/energizing_rod_quantum",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

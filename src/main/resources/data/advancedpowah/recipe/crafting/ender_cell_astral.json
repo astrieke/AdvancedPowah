@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": "powah:ender_core",
+    "i": "advancedpowah:crystal_astral",
+    "o": "#c:obsidians/normal"
+  },
+  "pattern": [
+    "oio",
+    "ici",
+    "oio"
+  ],
+  "result": {
+    "id": "advancedpowah:ender_cell_astral"
+  }
+}

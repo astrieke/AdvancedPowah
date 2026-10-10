@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "advancedpowah:block/voltaic_crystal_block"
+  }
+}

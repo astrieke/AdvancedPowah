@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "advancedpowah:block/quantum_crystal_block"
+    }
+  }
+}

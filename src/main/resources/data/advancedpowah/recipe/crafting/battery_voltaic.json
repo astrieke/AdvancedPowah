@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": "powah:battery_nitro",
+    "i": "advancedpowah:capacitor_voltaic",
+    "k": "advancedpowah:crystal_voltaic",
+    "o": "powah:dielectric_paste",
+    "r": "#c:storage_blocks/redstone"
+  },
+  "pattern": [
+    "oko",
+    "iri",
+    "oco"
+  ],
+  "result": {
+    "id": "advancedpowah:battery_voltaic"
+  }
+}

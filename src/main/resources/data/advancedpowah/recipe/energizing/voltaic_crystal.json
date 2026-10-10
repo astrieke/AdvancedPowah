@@ -1,0 +1,14 @@
+{
+  "type": "powah:energizing",
+  "energy": 120000000,
+  "ingredients": [
+    "powah:nitro_crystal_block",
+    "#c:storage_blocks/diamond",
+    "#c:storage_blocks/lapis",
+    "#c:nether_stars"
+  ],
+  "result": {
+    "count": 8,
+    "id": "advancedpowah:crystal_voltaic"
+  }
+}

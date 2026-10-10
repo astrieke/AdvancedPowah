@@ -1,0 +1,28 @@
+{
+  "values": {
+    "advancedpowah:voltaic_crystal_block": {
+      "temperature": 3500
+    },
+    "advancedpowah:astral_crystal_block": {
+      "temperature": 4500
+    },
+    "advancedpowah:quantum_crystal_block": {
+      "temperature": 5500
+    },
+    "minecraft:fire": {
+      "temperature": 700
+    },
+    "minecraft:soul_fire": {
+      "temperature": 900
+    },
+    "mekanism:superheating_element": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "mekanism"
+        }
+      ],
+      "temperature": 3000
+    }
+  }
+}

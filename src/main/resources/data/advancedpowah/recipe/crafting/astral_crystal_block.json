@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "advancedpowah:crystal_astral",
+    "advancedpowah:crystal_astral",
+    "advancedpowah:crystal_astral",
+    "advancedpowah:crystal_astral",
+    "advancedpowah:crystal_astral",
+    "advancedpowah:crystal_astral",
+    "advancedpowah:crystal_astral",
+    "advancedpowah:crystal_astral",
+    "advancedpowah:crystal_astral"
+  ],
+  "result": {
+    "id": "advancedpowah:astral_crystal_block"
+  }
+}

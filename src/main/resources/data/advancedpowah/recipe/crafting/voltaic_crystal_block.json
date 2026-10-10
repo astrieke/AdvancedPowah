@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "advancedpowah:crystal_voltaic",
+    "advancedpowah:crystal_voltaic",
+    "advancedpowah:crystal_voltaic",
+    "advancedpowah:crystal_voltaic",
+    "advancedpowah:crystal_voltaic",
+    "advancedpowah:crystal_voltaic",
+    "advancedpowah:crystal_voltaic",
+    "advancedpowah:crystal_voltaic",
+    "advancedpowah:crystal_voltaic"
+  ],
+  "result": {
+    "id": "advancedpowah:voltaic_crystal_block"
+  }
+}

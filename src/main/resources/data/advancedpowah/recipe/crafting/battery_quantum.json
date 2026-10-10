@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": "advancedpowah:battery_astral",
+    "i": "advancedpowah:capacitor_quantum",
+    "k": "advancedpowah:crystal_quantum",
+    "o": "powah:dielectric_paste",
+    "r": "#c:storage_blocks/redstone"
+  },
+  "pattern": [
+    "oko",
+    "iri",
+    "oco"
+  ],
+  "result": {
+    "id": "advancedpowah:battery_quantum"
+  }
+}

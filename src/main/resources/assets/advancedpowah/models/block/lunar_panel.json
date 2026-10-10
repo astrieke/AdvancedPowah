@@ -1,0 +1,7 @@
+{
+  "parent": "powah:item/solar_panel",
+  "textures": {
+    "frame": "advancedpowah:block/lunar_panel_frame",
+    "panel": "advancedpowah:block/lunar_panel_top"
+  }
+}

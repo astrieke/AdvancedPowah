@@ -1,0 +1,6 @@
+{
+  "parent": "powah:block/player_transmitter",
+  "textures": {
+    "var": "advancedpowah:block/player_transmitter_voltaic_var"
+  }
+}

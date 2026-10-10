@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": "advancedpowah:capacitor_voltaic",
+    "d": "powah:dielectric_casing",
+    "e": "advancedpowah:crystal_voltaic",
+    "p": "powah:solar_panel_nitro"
+  },
+  "pattern": [
+    "ppp",
+    "cdc",
+    "eee"
+  ],
+  "result": {
+    "id": "advancedpowah:solar_panel_voltaic"
+  }
+}

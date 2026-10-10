@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": "advancedpowah:crystal_quantum",
+    "c": "advancedpowah:capacitor_astral",
+    "p": "powah:dielectric_paste"
+  },
+  "pattern": [
+    "pbp",
+    "bcb",
+    "pbp"
+  ],
+  "result": {
+    "id": "advancedpowah:capacitor_quantum"
+  }
+}

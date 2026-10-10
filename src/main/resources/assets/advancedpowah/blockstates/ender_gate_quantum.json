@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "advancedpowah:block/ender_gate_quantum",
+      "x": 90
+    },
+    "facing=east": {
+      "model": "advancedpowah:block/ender_gate_quantum",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "advancedpowah:block/ender_gate_quantum"
+    },
+    "facing=south": {
+      "model": "advancedpowah:block/ender_gate_quantum",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "advancedpowah:block/ender_gate_quantum",
+      "x": 270
+    },
+    "facing=west": {
+      "model": "advancedpowah:block/ender_gate_quantum",
+      "y": 270
+    }
+  }
+}

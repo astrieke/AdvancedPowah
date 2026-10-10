@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": "advancedpowah:capacitor_quantum",
+    "d": "powah:dielectric_casing",
+    "p": "powah:dielectric_paste"
+  },
+  "pattern": [
+    "pcp",
+    "pdp",
+    "pcp"
+  ],
+  "result": {
+    "id": "advancedpowah:energy_discharger_quantum"
+  }
+}

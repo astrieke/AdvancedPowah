@@ -1,0 +1,6 @@
+{
+  "parent": "powah:block/furnator",
+  "textures": {
+    "ov": "advancedpowah:block/voltaic_ov"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "advancedpowah:block/reactor_voltaic",
+    "model": {
+      "type": "advancedpowah:reactor",
+      "tier": "voltaic"
+    }
+  }
+}

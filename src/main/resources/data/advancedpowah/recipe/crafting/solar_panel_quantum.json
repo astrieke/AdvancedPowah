@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": "advancedpowah:capacitor_quantum",
+    "d": "powah:dielectric_casing",
+    "e": "advancedpowah:crystal_quantum",
+    "p": "advancedpowah:solar_panel_astral"
+  },
+  "pattern": [
+    "ppp",
+    "cdc",
+    "eee"
+  ],
+  "result": {
+    "id": "advancedpowah:solar_panel_quantum"
+  }
+}

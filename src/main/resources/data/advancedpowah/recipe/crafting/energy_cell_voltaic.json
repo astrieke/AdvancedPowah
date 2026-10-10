@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": "advancedpowah:crystal_voltaic",
+    "c": "powah:energy_cell_nitro",
+    "d": "powah:dielectric_casing",
+    "n": "advancedpowah:capacitor_voltaic"
+  },
+  "pattern": [
+    "bnb",
+    "cdc",
+    "bnb"
+  ],
+  "result": {
+    "id": "advancedpowah:energy_cell_voltaic"
+  }
+}

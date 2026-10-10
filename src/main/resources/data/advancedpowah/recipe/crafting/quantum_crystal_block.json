@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "advancedpowah:crystal_quantum",
+    "advancedpowah:crystal_quantum",
+    "advancedpowah:crystal_quantum",
+    "advancedpowah:crystal_quantum",
+    "advancedpowah:crystal_quantum",
+    "advancedpowah:crystal_quantum",
+    "advancedpowah:crystal_quantum",
+    "advancedpowah:crystal_quantum",
+    "advancedpowah:crystal_quantum"
+  ],
+  "result": {
+    "id": "advancedpowah:quantum_crystal_block"
+  }
+}

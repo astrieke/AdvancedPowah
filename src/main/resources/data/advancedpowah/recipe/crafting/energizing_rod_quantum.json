@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": "advancedpowah:capacitor_quantum",
+    "c": "powah:dielectric_casing",
+    "h": "advancedpowah:energizing_rod_astral",
+    "q": "#c:storage_blocks/quartz"
+  },
+  "pattern": [
+    " q ",
+    "bcb",
+    " h "
+  ],
+  "result": {
+    "id": "advancedpowah:energizing_rod_quantum"
+  }
+}

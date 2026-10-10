@@ -1,0 +1,6 @@
+{
+  "parent": "powah:block/ender_cell",
+  "textures": {
+    "all": "advancedpowah:block/ender_cell_astral"
+  }
+}

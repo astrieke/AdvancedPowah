@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": "advancedpowah:capacitor_quantum",
+    "d": "powah:dielectric_casing",
+    "h": "advancedpowah:energy_hopper_astral",
+    "p": "powah:dielectric_paste"
+  },
+  "pattern": [
+    "ppp",
+    "cdc",
+    "php"
+  ],
+  "result": {
+    "id": "advancedpowah:energy_hopper_quantum"
+  }
+}

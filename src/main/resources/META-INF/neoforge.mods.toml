@@ -1,0 +1,63 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="LGPL-3.0-only"
+
+[[mods]]
+modId="advancedpowah"
+version="${mod_version}"
+displayName="Advanced Powah!"
+authors="Exitus"
+description='''
+Addon for Powah! (Rearchitected): three new tiers above Nitro (Voltaic, Astral, Quantum)
+for every tiered Powah block and item, plus a Lunar Panel that generates energy at night.
+
+Requires Cloth Config, GuideME! and Powah! (Rearchitected).
+'''
+
+[[dependencies.advancedpowah]]
+    modId="neoforge"
+    type="required"
+    versionRange="[26.1,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.advancedpowah]]
+    modId="minecraft"
+    type="required"
+    versionRange="[26.1.2,26.2)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.advancedpowah]]
+    modId="powah"
+    type="required"
+    versionRange="*"
+    ordering="AFTER"
+    side="BOTH"
+    reason="Advanced Powah! requires Powah! (Rearchitected) to be installed."
+    referralUrl="https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected"
+
+[[dependencies.advancedpowah]]
+    modId="cloth_config"
+    type="required"
+    versionRange="*"
+    ordering="AFTER"
+    side="BOTH"
+    reason="Advanced Powah! requires Cloth Config to be installed."
+    referralUrl="https://www.curseforge.com/minecraft/mc-mods/cloth-config"
+
+[[dependencies.advancedpowah]]
+    modId="guideme"
+    type="required"
+    versionRange="*"
+    ordering="AFTER"
+    side="BOTH"
+    reason="Advanced Powah! requires GuideME! to be installed."
+    referralUrl="https://www.curseforge.com/minecraft/mc-mods/guideme"
+
+[[dependencies.advancedpowah]]
+    modId="jei"
+    type="optional"
+    versionRange="*"
+    ordering="NONE"
+    side="CLIENT"

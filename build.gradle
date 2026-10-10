@@ -1,0 +1,85 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.140'
+}
+
+version = project.mod_version
+group = project.maven_group
+
+base {
+    archivesName = project.mod_id
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(25)
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    it.options.encoding = 'UTF-8'
+}
+
+repositories {
+    maven {
+        name = 'CurseMaven'
+        url = uri('https://cursemaven.com')
+        content {
+            includeGroup 'curse.maven'
+        }
+    }
+    maven {
+        name = 'shedaniel'
+        url = uri('https://maven.shedaniel.me')
+        content {
+            includeGroup 'me.shedaniel'
+            includeGroup 'me.shedaniel.cloth'
+            includeGroup 'dev.architectury'
+        }
+    }
+    maven {
+        name = 'blamejared'
+        url = uri('https://maven.blamejared.com/')
+        content {
+            includeGroup 'mezz.jei'
+        }
+    }
+    mavenCentral()
+}
+
+neoForge {
+    version = project.neoforge_version
+
+    runs {
+        client {
+            client()
+        }
+        server {
+            server()
+        }
+    }
+
+    mods {
+        advancedpowah {
+            sourceSet sourceSets.main
+        }
+    }
+}
+
+dependencies {
+    implementation "curse.maven:powah-rearchitected-633483:${project.powah_curseforge_file}"
+
+    implementation "me.shedaniel.cloth:cloth-config-neoforge:${project.cloth_config_version}"
+    runtimeOnly "org.appliedenergistics:guideme:${project.guideme_version}"
+
+    compileOnly "mezz.jei:jei-${project.jei_minecraft_version}-neoforge-api:${project.jei_version}"
+    runtimeOnly "mezz.jei:jei-${project.jei_minecraft_version}-neoforge:${project.jei_version}"
+}
+
+processResources {
+    def props = [mod_version: project.mod_version]
+    inputs.properties(props)
+    filesMatching('META-INF/neoforge.mods.toml') {
+        expand(props)
+    }
+}

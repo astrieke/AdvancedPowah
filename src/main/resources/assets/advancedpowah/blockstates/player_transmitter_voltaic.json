@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "top=false": {
+      "model": "advancedpowah:block/player_transmitter_voltaic"
+    },
+    "top=true": {
+      "model": "advancedpowah:block/player_transmitter_voltaic_top"
+    }
+  }
+}

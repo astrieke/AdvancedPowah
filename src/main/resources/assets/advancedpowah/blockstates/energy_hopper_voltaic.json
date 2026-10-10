@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "advancedpowah:block/energy_hopper_voltaic",
+      "x": 90
+    },
+    "facing=east": {
+      "model": "advancedpowah:block/energy_hopper_voltaic",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "advancedpowah:block/energy_hopper_voltaic"
+    },
+    "facing=south": {
+      "model": "advancedpowah:block/energy_hopper_voltaic",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "advancedpowah:block/energy_hopper_voltaic",
+      "x": 270
+    },
+    "facing=west": {
+      "model": "advancedpowah:block/energy_hopper_voltaic",
+      "y": 270
+    }
+  }
+}

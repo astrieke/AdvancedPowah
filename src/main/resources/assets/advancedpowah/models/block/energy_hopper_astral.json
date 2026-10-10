@@ -1,0 +1,6 @@
+{
+  "parent": "powah:block/energy_hopper",
+  "textures": {
+    "ov": "advancedpowah:block/astral_ov"
+  }
+}

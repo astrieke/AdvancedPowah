@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "advancedpowah:block/furnator_astral"
+    },
+    "facing=east": {
+      "model": "advancedpowah:block/furnator_astral",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "advancedpowah:block/furnator_astral",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "advancedpowah:block/furnator_astral",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "advancedpowah:block/furnator_quantum"
+    },
+    "facing=east": {
+      "model": "advancedpowah:block/furnator_quantum",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "advancedpowah:block/furnator_quantum",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "advancedpowah:block/furnator_quantum",
+      "y": 270
+    }
+  }
+}

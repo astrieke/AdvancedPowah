@@ -1,0 +1,14 @@
+{
+  "type": "powah:energizing",
+  "energy": 3000000000,
+  "ingredients": [
+    "advancedpowah:astral_crystal_block",
+    "#c:storage_blocks/netherite",
+    "minecraft:echo_shard",
+    "#c:nether_stars"
+  ],
+  "result": {
+    "count": 4,
+    "id": "advancedpowah:crystal_quantum"
+  }
+}

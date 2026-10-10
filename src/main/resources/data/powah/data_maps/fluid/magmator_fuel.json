@@ -1,0 +1,10 @@
+{
+  "values": {
+    "#c:superheated_sodium": {
+      "energy_produced": 25000
+    },
+    "#c:bioethanol": {
+      "energy_produced": 6000
+    }
+  }
+}
